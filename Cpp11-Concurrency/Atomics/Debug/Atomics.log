@@ -1,0 +1,4 @@
+﻿  Atomics.cpp
+c:\su\coretechnologies\threadsandsynchronization\code\cpp11-concurrency\atomics\atomics.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\su\coretechnologies\threadsandsynchronization\code\cpp11-concurrency\atomics\atomics.cpp(42): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Atomics.vcxproj -> C:\su\coretechnologies\ThreadsAndSynchronization\code\Cpp11-Concurrency\Debug\Atomics.exe
